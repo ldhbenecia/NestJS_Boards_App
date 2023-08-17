@@ -24,7 +24,19 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+### NestJS 학습을 위한 레포지토리입니다.
+PostgreSQL DB를 TypeORM을 이용하여 학습하고 게시판, 로그인 기능을 연습합니다.
+
+<br/>
+
+## Stacks
+
+<div>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+
+</div>
 
 ## Installation
 
